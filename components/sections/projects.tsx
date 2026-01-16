@@ -14,8 +14,8 @@ export default function Project() {
   // const controlBtnStyle = "bg-secondary/80 hover:bg-secondary text-accent";
   const github: CardType = {
     title: "Check out all projects",
-    description: "See all my open source projects on my github profile.",
-    projectUrl: "",
+    description: "See all my projects on my github.",
+    projectUrl: "https://github.com/sujal8976",
   };
 
   const { emblaRef, prevBtnDisabled, nextBtnDisabled, scrollPrev, scrollNext } =

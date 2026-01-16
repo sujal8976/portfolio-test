@@ -252,7 +252,7 @@ function CertificationsSection({ certifications }: CertificationSectionProps) {
             <div className="flex items-center gap-2">
               <Star />
               <p>
-                {"see all my projects on my "}
+                {"see all my badges on my "}
                 <Link
                   className="text-accent"
                   href={credlyLink.url}
